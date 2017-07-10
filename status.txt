@@ -1,0 +1,7 @@
+
+1) HELLO
+2) I'm good
+3) What's up
+4) PYTHON
+5) EXPECTATIONS
+GOOD DAY
